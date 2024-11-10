@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "227242869623",
+    "firebase_url": "https://nour-1dc15-default-rtdb.firebaseio.com",
+    "project_id": "nour-1dc15",
+    "storage_bucket": "nour-1dc15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227242869623:android:f0a0e0c574753227e35772",
+        "android_client_info": {
+          "package_name": "com.example.jeux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSOxrFpAVUY_PcY41zDfw_G43UBUO7r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227242869623:android:e2691853fb03b5e3e35772",
+        "android_client_info": {
+          "package_name": "com.example.nour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSOxrFpAVUY_PcY41zDfw_G43UBUO7r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
